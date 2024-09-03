@@ -1,0 +1,11 @@
+Total de caracteres no texto:369
+Tolkenização por sentença
+                                                   0  ...                                                  4
+0  No coração de uma pequena vila costeira, onde ...  ...  A proprietária, Dona Clara, era uma mulher de ...
+1                                                  N  ...                                              NPROP
+
+[2 rows x 5 columns]
+Tolkenização por palavra
+    0        1     2    3        4
+0  No  coração    de  uma  pequena
+1  KC        N  PREP  ART      ADJ
